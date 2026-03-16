@@ -7,14 +7,10 @@
 
   ## Features
 
-  - **AI Sound Detection** — PANN CNN14 neural network analyzes audio and classifies 527 types of sounds
-  - **6 Sound Profiles** — Pets, Nature, People, Traffic, Noise, or All Sounds
+  - **AI Sound Detection** — Neural network analyzes audio and classifies 527 types of sounds
   - **PDF Reports** — Hourly charts, nuisance scoring, continuous event analysis, SHA-256 integrity verification
   - **Episode Management** — Review, soft-delete, or hard-delete detected sound episodes
   - **Video Assembly** — Automatically concatenates detected episodes into an output video
-  - **Append Workflow** — Add new video files to existing projects with collision detection
-  - **25 Languages** — Full UI localization (EN, BG, CS, DA, DE, EL, ES, ET, FI, FR, GA, HR, HU, IT, LT, LV, MT, NL, NO, PL,
-  PT, RO, SK, SL, SV)
   - **Privacy First** — All processing happens locally on your Mac. No data leaves your device.
 
   ## Requirements
